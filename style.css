@@ -1,0 +1,29 @@
+/*헤더*/
+@font-face {
+  font-family: 'HS-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/HS-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.ligr{
+  background: #F2F2F2;
+  padding: 14rem;
+  padding-right: 100rem;
+}
+
+.p20 {
+  padding: 12rem;
+}
+
+.hd{height: 100px;
+  color: #ff7979;
+  }
+
+.profileheight{
+  height: 900px;
+}
+
+.text {
+  font-family: 'HS-Regular';
+}
